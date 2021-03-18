@@ -1,0 +1,99 @@
+#one{
+    background-color:rgb(240, 79, 4);
+    width: 9.5cm;
+    text-align: center;
+}
+#two{
+    background-color: rgb(250, 150, 4);
+    width: 9.5cm;
+    text-align: center;
+}
+#three{
+    background-color: rgb(255, 179, 0);
+    width: 9.5cm;
+    text-align: center;
+}
+.pic{
+margin-left: 1.5cm;
+margin-right: 1.5cm;
+}
+#four{
+    color: white;
+    
+    margin-left: 1cm;
+}
+#five{
+    background-image:url(images/people-man-camera-photographer.jpg);
+    background-repeat:  no-repeat;
+    background-size: 100%  100%;
+}
+#button{
+   color:white; 
+   background-color: orangered;
+   border-color: orangered;
+}
+#photo{
+    margin-left: 15cm;
+    margin-top: 5cm;
+    margin-bottom: 2cm;
+
+}
+#seven{
+    margin-top: 4cm;
+    margin-left: 9cm;
+
+}
+#eight{
+    margin-top: 4cm;
+    color: orangered;
+    text-align: center;
+}
+#nine{
+    color: black;
+}
+#eleven{
+    color:black; 
+    background-color:white;
+    border-width: .000001cm;
+ }
+ #twelve{
+     margin-top:4cm;
+ }
+ #thirteen{
+    margin-top:2cm;
+    
+
+ }
+ 
+ #fifteen{
+     text-align: center;
+ }
+ #sixtee{
+    margin-left: 2cm;
+}
+#seventee{
+ color:orangered;   
+}
+#eightee{
+    text-align: center;
+}
+#twentee{
+    text-align: center;
+    color: white;
+    background-color: orangered;
+}
+    #tone{
+        text-align: center;
+        color: white;
+        background-color:black;
+    
+    }
+    #ttwo{
+        text-align: center;
+        
+    
+    }
+    #tthre{
+color: orangered;
+    }
+
